@@ -21,21 +21,27 @@ Features
 - Responsive design (works on desktop & mobile)
 
 Screenshots
+
 Game Board
 ![chess1](chess1.jpg)
+
+
 Move History
 ![chess2](chess2.jpg)
 ![chess3](chess3.jpg)
 ![chess4](chess4.jpg)
+
+
 Captured Pieces
 ![chess5](chess5.jpg)
+
+
 Check and Checkmate
 ![chess6](chess6.jpg)
 ![chess7](chess7.jpg)
+
+
 Restart Game
 ![chess8](chess8.jpg)
 
 ---
-
-cd vanilla-js-chess
-open chess-game.html   # or double-click in file explorer
